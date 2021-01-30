@@ -1,0 +1,46 @@
+
+
+#content{
+	font-family: 'Vampiro One', cursive;
+	text-align: center;
+	
+	color:white;
+	font-weight: 1000%;
+	font-size: 4em;
+
+
+
+}
+.carousel-item{
+	max-height: 500px;
+	object-fit: cover;
+}
+.red{
+	color:#3CB371 ;
+}
+
+.modal-footer {
+	background-color: #3CB371 ;
+}
+.modal-header {
+	background-color: #3CB371 ;
+	color: white;
+}
+#heading{
+	font-family: 'Acme', sans-serif;
+	color: #3CB371;
+}
+#cont1{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	color: white;
+	font-weight: 1000%;
+	;
+	}
+#cont2{
+	font-family: 'Dancing Script', cursive;
+		text-align: center;
+	padding-bottom:8%;
+		color: white;
+		font-weight: 1000%;
+		}

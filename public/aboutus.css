@@ -1,0 +1,37 @@
+#heading{
+	font-family: 'Acme', sans-serif;
+	color: #3CB371;
+	opacity: 1;
+}
+
+.chead{
+	color:#3CB371 ;
+	font-family: 'Acme', sans-serif;
+text-align: center;
+}
+.member{
+	font-family: 'Acme', sans-serif;
+	color: #3CB371;
+text-align: center;
+
+}
+.about {
+	background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.9) 100%), url("https://images.unsplash.com/photo-1444210971048-6130cf0c46cf?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8ZnJpZW5kfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" );
+	background-position: center;
+	background-size: cover;
+	max-height: 10rem;
+
+	
+}
+.card-img-top{
+	border-radius: 55%;
+}
+
+.aboutpage {
+	background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.9) 100%), url("https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JvdXB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60" );
+	background-position: center;
+	background-size: cover;
+	max-height: 10rem;
+
+	
+}
